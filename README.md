@@ -12,3 +12,4 @@ Link To Colab For Newbie
 ### 🧿 Handle Files on Drive By Using Drive API <a href="https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/io.ipynb&scrollTo=jRQ5_yMcqJiV" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 ### 🧿 Playing Vedio File In Colab <a href="https://colab.research.google.com/drive/1rXVCTFRJmQcqOtphcdudDUuBjRlklh1U?usp=sharing" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 ### 🧿 [To Stop Colab From Being Disconnected](https://www.codegrepper.com/code-examples/javascript/prevent+colab+from+disconnecting)
+### 🧿 [Colab Hacks](https://towardsdatascience.com/use-colab-more-efficiently-with-these-hacks-fc89ef1162d8)
