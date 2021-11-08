@@ -11,4 +11,4 @@ Link To Colab For Newbie
 ### 🧿 Advanced Outputs <a href="https://colab.research.google.com/notebooks/snippets/advanced_outputs.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 ### 🧿 Handle Files on Drive By Using Drive API <a href="https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/io.ipynb&scrollTo=jRQ5_yMcqJiV" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 ### 🧿 Playing Vedio File In Colab <a href="https://colab.research.google.com/drive/1rXVCTFRJmQcqOtphcdudDUuBjRlklh1U?usp=sharing" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-### 🧿 To Stop Colab From Being Disconnected <a href="https://www.codegrepper.com/code-examples/javascript/prevent+colab+from+disconnecting" target="_parent\">open</a>
+### 🧿 [To Stop Colab From Being Disconnected](https://www.codegrepper.com/code-examples/javascript/prevent+colab+from+disconnecting)
