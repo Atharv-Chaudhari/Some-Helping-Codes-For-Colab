@@ -1,5 +1,3 @@
-Under Development Still ✌
-
 # ✨ Helping Codes For Colab 🔥🔥🔥
 
 Link To Colab For Newbie
