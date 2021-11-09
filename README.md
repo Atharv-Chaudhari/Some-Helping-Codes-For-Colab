@@ -14,3 +14,4 @@ Link To Colab For Newbie
 ### 🧿 [To Stop Colab From Being Disconnected](https://www.codegrepper.com/code-examples/javascript/prevent+colab+from+disconnecting)
 ### 🧿 [Colab Hacks](https://towardsdatascience.com/use-colab-more-efficiently-with-these-hacks-fc89ef1162d8)
 ### 🧿 [Fetching Kaggle Data In Collab](https://www.analyticsvidhya.com/blog/2021/06/how-to-load-kaggle-datasets-directly-into-google-colab/)
+### 🧿 [Tensorflow Datasets](https://colab.research.google.com/github/tensorflow/datasets/blob/master/docs/overview.ipynb)
