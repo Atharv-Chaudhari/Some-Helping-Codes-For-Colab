@@ -15,3 +15,4 @@ Link To Colab For Newbie
 ### 🧿 [Colab Hacks](https://towardsdatascience.com/use-colab-more-efficiently-with-these-hacks-fc89ef1162d8)
 ### 🧿 [Fetching Kaggle Data In Collab](https://www.analyticsvidhya.com/blog/2021/06/how-to-load-kaggle-datasets-directly-into-google-colab/)
 ### 🧿 Tensorflow Datasets <a href="https://colab.research.google.com/github/tensorflow/datasets/blob/master/docs/overview.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+### 🧿 Forms In Collab <a href="https://colab.research.google.com/notebooks/forms.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
